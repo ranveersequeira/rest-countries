@@ -4,7 +4,7 @@
 // https://restcountries.eu/rest/v2/alpha/{code}
 
 const config = {
-    endpoint:`https://restcountries.com/v3.1`
+endpoint:`https://restcountries.eu/rest/v2`
 
 }
 
